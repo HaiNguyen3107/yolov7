@@ -1,0 +1,4 @@
+train: D:\code\YOLOv7-SKU110K\data\images\train
+val: D:\code\YOLOv7-SKU110K\data\images\val
+nc: 1
+names: ["object"]
